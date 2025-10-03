@@ -1,0 +1,1815 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "drama",
+      "prison",
+      "friendship"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "type": "movie",
+    "year": 1972,
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.67,
+      0.7,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "The Godfather Part II",
+    "type": "movie",
+    "year": 1974,
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.67,
+      0.7,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "type": "movie",
+    "year": 2008,
+    "genres": [
+      "action",
+      "superhero",
+      "crime"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.65,
+      1,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "crime",
+      "dark",
+      "comedy"
+    ],
+    "moodVec": [
+      0.25,
+      0.4,
+      0.5,
+      1,
+      0.25,
+      1
+    ]
+  },
+  {
+    "title": "Schindler's List",
+    "type": "movie",
+    "year": 1993,
+    "genres": [
+      "drama",
+      "war",
+      "historical"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.85,
+      0.5,
+      0.75
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "type": "movie",
+    "year": 2003,
+    "genres": [
+      "fantasy",
+      "adventure",
+      "epic"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.85,
+      0.95,
+      0.5,
+      0.6
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "drama",
+      "psychological",
+      "dark"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.5,
+      0.92,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "drama",
+      "romance",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.85,
+      0.52,
+      0.77,
+      0.5,
+      0.75,
+      0.55
+    ]
+  },
+  {
+    "title": "Inception",
+    "type": "movie",
+    "year": 2010,
+    "genres": [
+      "sci-fi",
+      "thriller",
+      "heist"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.8,
+      1,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Matrix",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "sci-fi",
+      "action"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.8,
+      0.95,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "title": "Goodfellas",
+    "type": "movie",
+    "year": 1990,
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.67,
+      0.7,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "Se7en",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "thriller",
+      "crime",
+      "dark"
+    ],
+    "moodVec": [
+      0.25,
+      0.4,
+      0.5,
+      1,
+      0.25,
+      1
+    ]
+  },
+  {
+    "title": "Interstellar",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "sci-fi",
+      "drama",
+      "epic"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.97,
+      0.95,
+      0.5,
+      0.75
+    ]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "type": "movie",
+    "year": 1991,
+    "genres": [
+      "thriller",
+      "crime",
+      "psychological"
+    ],
+    "moodVec": [
+      0.5,
+      0.62,
+      0.55,
+      1,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "Saving Private Ryan",
+    "type": "movie",
+    "year": 1998,
+    "genres": [
+      "war",
+      "drama",
+      "epic"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.85,
+      0.5,
+      0.75
+    ]
+  },
+  {
+    "title": "The Green Mile",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "drama",
+      "fantasy"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.6,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Gladiator",
+    "type": "movie",
+    "year": 2000,
+    "genres": [
+      "action",
+      "historical",
+      "epic"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.8,
+      1,
+      0.5,
+      0.6
+    ]
+  },
+  {
+    "title": "City of God",
+    "type": "movie",
+    "year": 2002,
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.67,
+      0.7,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "The Usual Suspects",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "crime",
+      "mystery",
+      "thriller"
+    ],
+    "moodVec": [
+      0.5,
+      0.62,
+      0.55,
+      1,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "L\u00e9on: The Professional",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "crime",
+      "drama",
+      "action"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.77,
+      1,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "The Lion King",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "animation",
+      "adventure",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.7,
+      0.6,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Back to the Future",
+    "type": "movie",
+    "year": 1985,
+    "genres": [
+      "adventure",
+      "sci-fi",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.7,
+      0.6,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Whiplash",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "drama",
+      "music",
+      "psychological"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Prestige",
+    "type": "movie",
+    "year": 2006,
+    "genres": [
+      "mystery",
+      "drama",
+      "thriller"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.67,
+      0.82,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "Parasite",
+    "type": "movie",
+    "year": 2019,
+    "genres": [
+      "thriller",
+      "drama",
+      "dark"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.5,
+      0.92,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "Joker",
+    "type": "movie",
+    "year": 2019,
+    "genres": [
+      "drama",
+      "psychological",
+      "dark"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.5,
+      0.92,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "The Pianist",
+    "type": "movie",
+    "year": 2002,
+    "genres": [
+      "drama",
+      "war"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.85,
+      0.5,
+      0.75
+    ]
+  },
+  {
+    "title": "Oldboy",
+    "type": "movie",
+    "year": 2003,
+    "genres": [
+      "thriller",
+      "mystery",
+      "dark"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.5,
+      0.92,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "Memento",
+    "type": "movie",
+    "year": 2000,
+    "genres": [
+      "mystery",
+      "thriller"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.55,
+      0.82,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "type": "movie",
+    "year": 1991,
+    "genres": [
+      "action",
+      "sci-fi"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.8,
+      0.95,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "title": "Alien",
+    "type": "movie",
+    "year": 1979,
+    "genres": [
+      "horror",
+      "sci-fi",
+      "suspense"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.65,
+      1,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "Aliens",
+    "type": "movie",
+    "year": 1986,
+    "genres": [
+      "action",
+      "sci-fi"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.8,
+      0.95,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "title": "WALL\u00b7E",
+    "type": "movie",
+    "year": 2008,
+    "genres": [
+      "animation",
+      "sci-fi",
+      "romance"
+    ],
+    "moodVec": [
+      0.85,
+      0.52,
+      0.8,
+      0.6,
+      0.75,
+      0.4
+    ]
+  },
+  {
+    "title": "Coco",
+    "type": "movie",
+    "year": 2017,
+    "genres": [
+      "animation",
+      "family",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.55,
+      0.5,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Up",
+    "type": "movie",
+    "year": 2009,
+    "genres": [
+      "animation",
+      "adventure",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.7,
+      0.6,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Toy Story",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "animation",
+      "adventure",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.7,
+      0.6,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Inside Out",
+    "type": "movie",
+    "year": 2015,
+    "genres": [
+      "animation",
+      "family",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.55,
+      0.5,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "comedy",
+      "drama",
+      "quirky"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.67,
+      0.5,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "Her",
+    "type": "movie",
+    "year": 2013,
+    "genres": [
+      "romance",
+      "sci-fi",
+      "drama"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.92,
+      0.6,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "title": "La La Land",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "romance",
+      "music",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.85,
+      0.52,
+      0.65,
+      0.5,
+      0.75,
+      0.4
+    ]
+  },
+  {
+    "title": "The Social Network",
+    "type": "movie",
+    "year": 2010,
+    "genres": [
+      "drama",
+      "biography"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "type": "movie",
+    "year": 2015,
+    "genres": [
+      "action",
+      "post-apocalyptic",
+      "adventure"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.8,
+      0.95,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "title": "Django Unchained",
+    "type": "movie",
+    "year": 2012,
+    "genres": [
+      "western",
+      "drama",
+      "action"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.77,
+      0.85,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Inglourious Basterds",
+    "type": "movie",
+    "year": 2009,
+    "genres": [
+      "war",
+      "drama",
+      "dark"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.65,
+      1,
+      0.25,
+      1
+    ]
+  },
+  {
+    "title": "Requiem for a Dream",
+    "type": "movie",
+    "year": 2000,
+    "genres": [
+      "drama",
+      "psychological",
+      "dark"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.5,
+      0.92,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "Black Swan",
+    "type": "movie",
+    "year": 2010,
+    "genres": [
+      "drama",
+      "psychological"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Truman Show",
+    "type": "movie",
+    "year": 1998,
+    "genres": [
+      "drama",
+      "sci-fi",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.82,
+      0.6,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "A Beautiful Mind",
+    "type": "movie",
+    "year": 2001,
+    "genres": [
+      "drama",
+      "biography"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "There Will Be Blood",
+    "type": "movie",
+    "year": 2007,
+    "genres": [
+      "drama",
+      "epic"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.85,
+      0.5,
+      0.75
+    ]
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "type": "movie",
+    "year": 2013,
+    "genres": [
+      "biography",
+      "comedy",
+      "crime"
+    ],
+    "moodVec": [
+      0.75,
+      0.57,
+      0.55,
+      0.7,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "12 Angry Men",
+    "type": "movie",
+    "year": 1957,
+    "genres": [
+      "drama",
+      "courtroom"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "type": "movie",
+    "year": 1975,
+    "genres": [
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Shining",
+    "type": "movie",
+    "year": 1980,
+    "genres": [
+      "horror",
+      "psychological"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.5,
+      0.92,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "The Thing",
+    "type": "movie",
+    "year": 1982,
+    "genres": [
+      "horror",
+      "sci-fi",
+      "suspense"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.65,
+      1,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "Blade Runner",
+    "type": "movie",
+    "year": 1982,
+    "genres": [
+      "sci-fi",
+      "noir"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.7,
+      0.8,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Blade Runner 2049",
+    "type": "movie",
+    "year": 2017,
+    "genres": [
+      "sci-fi",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.6,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Am\u00e9lie",
+    "type": "movie",
+    "year": 2001,
+    "genres": [
+      "romance",
+      "comedy",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.85,
+      0.52,
+      0.65,
+      0.5,
+      0.75,
+      0.4
+    ]
+  },
+  {
+    "title": "The Intouchables",
+    "type": "movie",
+    "year": 2011,
+    "genres": [
+      "drama",
+      "feelgood",
+      "biography"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.67,
+      0.5,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "The Lives of Others",
+    "type": "movie",
+    "year": 2006,
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.67,
+      0.82,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "type": "movie",
+    "year": 2006,
+    "genres": [
+      "fantasy",
+      "war",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.97,
+      0.95,
+      0.5,
+      0.75
+    ]
+  },
+  {
+    "title": "The Handmaiden",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "thriller",
+      "romance",
+      "mystery"
+    ],
+    "moodVec": [
+      0.6,
+      0.57,
+      0.65,
+      0.82,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "type": "movie",
+    "year": 2004,
+    "genres": [
+      "romance",
+      "drama",
+      "sci-fi"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.92,
+      0.6,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "title": "No Country for Old Men",
+    "type": "movie",
+    "year": 2007,
+    "genres": [
+      "crime",
+      "thriller",
+      "western"
+    ],
+    "moodVec": [
+      0.5,
+      0.62,
+      0.55,
+      1,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "Shutter Island",
+    "type": "movie",
+    "year": 2010,
+    "genres": [
+      "mystery",
+      "thriller"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.55,
+      0.82,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Catch Me If You Can",
+    "type": "movie",
+    "year": 2002,
+    "genres": [
+      "biography",
+      "crime",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.57,
+      0.55,
+      0.7,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "type": "movie",
+    "year": 2006,
+    "genres": [
+      "drama",
+      "feelgood",
+      "biography"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.67,
+      0.5,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "Logan",
+    "type": "movie",
+    "year": 2017,
+    "genres": [
+      "superhero",
+      "drama",
+      "action"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.77,
+      0.85,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "superhero",
+      "comedy",
+      "adventure"
+    ],
+    "moodVec": [
+      0.75,
+      0.47,
+      0.8,
+      0.95,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Jojo Rabbit",
+    "type": "movie",
+    "year": 2019,
+    "genres": [
+      "comedy",
+      "war",
+      "drama"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.82,
+      0.85,
+      0.65,
+      0.6
+    ]
+  },
+  {
+    "title": "Moonlight",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Arrival",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "sci-fi",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.6,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Prisoners",
+    "type": "movie",
+    "year": 2013,
+    "genres": [
+      "thriller",
+      "crime",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.62,
+      0.67,
+      1,
+      0.5,
+      0.95
+    ]
+  },
+  {
+    "title": "Sicario",
+    "type": "movie",
+    "year": 2015,
+    "genres": [
+      "crime",
+      "thriller"
+    ],
+    "moodVec": [
+      0.5,
+      0.62,
+      0.55,
+      1,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "Drive",
+    "type": "movie",
+    "year": 2011,
+    "genres": [
+      "crime",
+      "neo-noir"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.55,
+      0.7,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Baby Driver",
+    "type": "movie",
+    "year": 2017,
+    "genres": [
+      "crime",
+      "heist",
+      "action"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.65,
+      1,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Heat",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "crime",
+      "heist",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.77,
+      1,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "title": "Casablanca",
+    "type": "movie",
+    "year": 1942,
+    "genres": [
+      "romance",
+      "war",
+      "classic"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.8,
+      0.85,
+      0.6,
+      0.65
+    ]
+  },
+  {
+    "title": "Psycho",
+    "type": "movie",
+    "year": 1960,
+    "genres": [
+      "horror",
+      "thriller",
+      "classic"
+    ],
+    "moodVec": [
+      0.25,
+      0.35,
+      0.5,
+      0.92,
+      0.25,
+      0.92
+    ]
+  },
+  {
+    "title": "Chinatown",
+    "type": "movie",
+    "year": 1974,
+    "genres": [
+      "neo-noir",
+      "mystery"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.55,
+      0.7,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "type": "movie",
+    "year": 1966,
+    "genres": [
+      "western",
+      "classic"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.55,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "title": "The Apartment",
+    "type": "movie",
+    "year": 1960,
+    "genres": [
+      "romance",
+      "comedy",
+      "classic"
+    ],
+    "moodVec": [
+      0.85,
+      0.52,
+      0.65,
+      0.5,
+      0.75,
+      0.4
+    ]
+  },
+  {
+    "title": "Vertigo",
+    "type": "movie",
+    "year": 1958,
+    "genres": [
+      "mystery",
+      "thriller",
+      "classic"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.55,
+      0.82,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "North by Northwest",
+    "type": "movie",
+    "year": 1959,
+    "genres": [
+      "adventure",
+      "thriller",
+      "classic"
+    ],
+    "moodVec": [
+      0.5,
+      0.57,
+      0.7,
+      0.92,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Breakfast Club",
+    "type": "movie",
+    "year": 1985,
+    "genres": [
+      "comedy",
+      "coming-of-age"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.55,
+      0.5,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "type": "movie",
+    "year": 1986,
+    "genres": [
+      "comedy",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.55,
+      0.5,
+      0.65,
+      0.35
+    ]
+  },
+  {
+    "title": "Stand by Me",
+    "type": "movie",
+    "year": 1986,
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Terminator",
+    "type": "movie",
+    "year": 1984,
+    "genres": [
+      "sci-fi",
+      "action"
+    ],
+    "moodVec": [
+      0.5,
+      0.47,
+      0.8,
+      0.95,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "title": "Rocky",
+    "type": "movie",
+    "year": 1976,
+    "genres": [
+      "sports",
+      "drama",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.67,
+      0.5,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "Raging Bull",
+    "type": "movie",
+    "year": 1980,
+    "genres": [
+      "sports",
+      "drama"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The King's Speech",
+    "type": "movie",
+    "year": 2010,
+    "genres": [
+      "drama",
+      "biography"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "type": "movie",
+    "year": 2008,
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.77,
+      0.5,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "title": "Life of Pi",
+    "type": "movie",
+    "year": 2012,
+    "genres": [
+      "adventure",
+      "drama",
+      "fantasy"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.82,
+      0.6,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "3 Idiots",
+    "type": "movie",
+    "year": 2009,
+    "genres": [
+      "comedy",
+      "drama",
+      "feelgood"
+    ],
+    "moodVec": [
+      0.75,
+      0.52,
+      0.67,
+      0.5,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "The Big Lebowski",
+    "type": "movie",
+    "year": 1998,
+    "genres": [
+      "comedy",
+      "crime"
+    ],
+    "moodVec": [
+      0.75,
+      0.57,
+      0.55,
+      0.7,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "title": "Fargo",
+    "type": "movie",
+    "year": 1996,
+    "genres": [
+      "crime",
+      "dark",
+      "comedy"
+    ],
+    "moodVec": [
+      0.25,
+      0.4,
+      0.5,
+      1,
+      0.25,
+      1
+    ]
+  },
+  {
+    "title": "Mulholland Drive",
+    "type": "movie",
+    "year": 2001,
+    "genres": [
+      "mystery",
+      "drama",
+      "psychological"
+    ],
+    "moodVec": [
+      0.5,
+      0.52,
+      0.67,
+      0.5,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "title": "The Princess Bride",
+    "type": "movie",
+    "year": 1987,
+    "genres": [
+      "adventure",
+      "romance",
+      "fantasy"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.8,
+      0.6,
+      0.6,
+      0.55
+    ]
+  },
+  {
+    "title": "Notting Hill",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "romance",
+      "comedy"
+    ],
+    "moodVec": [
+      0.85,
+      0.52,
+      0.65,
+      0.5,
+      0.75,
+      0.4
+    ]
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "type": "movie",
+    "year": 1989,
+    "genres": [
+      "romance",
+      "comedy"
+    ],
+    "moodVec": [
+      0.85,
+      0.52,
+      0.65,
+      0.5,
+      0.75,
+      0.4
+    ]
+  },
+  {
+    "title": "Before Sunrise",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.77,
+      0.5,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "title": "Before Sunset",
+    "type": "movie",
+    "year": 2004,
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.77,
+      0.5,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "title": "Before Midnight",
+    "type": "movie",
+    "year": 2013,
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moodVec": [
+      0.6,
+      0.52,
+      0.77,
+      0.5,
+      0.6,
+      0.7
+    ]
+  }
+]

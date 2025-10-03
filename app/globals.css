@@ -1,0 +1,22 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Inter for crisp readability */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root{ --bg:#0B0F1A; --surface:rgba(17,23,37,.78); --headline:#F3F4F6; --body:#D1D5DB }
+html,body{ background:var(--bg); color:var(--body); font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial; }
+.container{ max-width:1180px; margin:0 auto; padding:0 1rem }
+.card{ background:var(--surface); border:1px solid rgba(255,255,255,.10); border-radius:1.25rem }
+h1,h2{ color:var(--headline) }
+a{ color:#93C5FD }
+input[type="range"]{ accent-color:#22D3EE }
+.badge{ @apply rounded-full bg-white/5 px-3 py-1 text-xs ring-1 ring-white/10 }
+.btn{ @apply rounded-xl px-4 py-2 text-sm font-semibold ring-1 ring-white/10 bg-white/5 hover:ring-indigo-400/40 }
+.btn-primary{ @apply text-white bg-gradient-to-r from-brand to-brand2 }
+.glow{ background:
+  radial-gradient(50% 45% at 10% -10%, rgba(167,139,250,.28), transparent 60%),
+  radial-gradient(55% 45% at 90% 0%, rgba(34,211,238,.25), transparent 60%);
+}
+.text-dim{ color:#C5CEE1 }
